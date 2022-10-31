@@ -1,3 +1,3 @@
 # Graphic-Design-Jobs
 
-All my Groapghic Designs jobs HTML
+All my Groapghic Design jobs .HTML
